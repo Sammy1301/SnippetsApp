@@ -1,8 +1,21 @@
-# SnippetsApp
-Web application to Store code
+# snippets
 
-This is an Application to store code that i might need. Im currently working on it and y want to scale it a lot more and turn it into a great tool not only for me but for a lot of developers arround the world.
+> Prijecto Snippets
 
-Aplicación web para almacenar código
+## Build Setup
 
-Esta es una aplicación para almacenar el código que pueda necesitar. Actualmente estoy trabajando en él y quiero escalarlo mucho más y convertirlo en una gran herramienta no solo para mí sino para muchos desarrolladores de todo el mundo.
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
+```
+
+For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
